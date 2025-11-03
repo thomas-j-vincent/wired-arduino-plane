@@ -6,3 +6,4 @@ In the first five seconds turn the potentiometers to the max and then the minimu
 I never actually made this, only simulated it so i dont know how well it works in practise. 
 
 # Here is the simulation on tinkercad:
+https://www.tinkercad.com/things/l8xdmRJIxLk-airplane-code
